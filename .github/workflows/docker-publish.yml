@@ -10,8 +10,8 @@ on:
       - ".github/workflows/**"
 
 env:
-  BACKEND_IMAGE: destructor169/taskqueue-backend
-  FRONTEND_IMAGE: destructor169/taskqueue-frontend
+  BACKEND_IMAGE: 22110015/taskqueue-backend
+  FRONTEND_IMAGE: 22110015/taskqueue-frontend
 
 jobs:
   build-and-push:
