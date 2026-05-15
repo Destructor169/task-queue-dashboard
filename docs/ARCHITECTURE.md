@@ -934,7 +934,7 @@ Live capture of 5,000 tasks being processed, showing the activity log in real-ti
 Backend terminal output showing worker goroutines processing tasks, connection logs, and performance metrics.
 
 ### Screenshot 6: Dashboard Testing
-![Dashboard Testing](./docs/Dashboard-testing.png)
+![Dashboard Testing](docs/Dashboard-testing.png)
 
 Full dashboard view during testing with all panels visible and active.
 
