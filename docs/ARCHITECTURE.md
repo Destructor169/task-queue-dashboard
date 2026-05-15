@@ -909,27 +909,27 @@ spec:
 ## Dashboard Screenshots
 
 ### Screenshot 1: Task Flow Pipeline & Submission Form
-![Dashboard Top](./dashboard-top.png)
+![Dashboard Top](docs/dashboard-top.png)
 
 Shows real-time task flow through each stage with submission panel for single and batch operations.
 
 ### Screenshot 2: Worker Pool, Queue Contents & Activity Log
-![Dashboard Middle](./dashboard-middle.png)
+![Dashboard Middle](docs/dashboard-middle.png)
 
 Monitor active workers with live updates, peek into queue contents, and stream activity events in real-time.
 
 ### Screenshot 3: Activity Log & Dead-Letter Table
-![Dashboard Bottom](./dashboard-bottom.png)
+![Dashboard Bottom](docs/dashboard-bottom.png)
 
 Full event audit trail and permanent failure storage with task details and error reasons.
 
 ### Screenshot 4: 5K Tasks Running - Dashboard Activity Logs
-![5K Running Activity Logs](./5K-Running-Dashboard-Activity-Logs.png)
+![5K Running Activity Logs](docs/5K-Running-Dashboard-Activity-Logs.png)
 
 Live capture of 5,000 tasks being processed, showing the activity log in real-time with events streaming through.
 
 ### Screenshot 5: 5K Tasks Running - Terminal Output
-![5K Running Terminal](./5K-Running-terminal.png)
+![5K Running Terminal](docs/5K-Running-terminal.png)
 
 Backend terminal output showing worker goroutines processing tasks, connection logs, and performance metrics.
 
